@@ -1,0 +1,2 @@
+# color_emoji_setup
+Discordの色付き絵文字を自動で配置して絵みたいのを描きたかった
